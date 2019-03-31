@@ -1,2 +1,2 @@
 # HelloWorld
-![GitHub Releases](https://img.shields.io/github/downloads/MrMaou/HelloWorld/latest/total.svg?style=flat-square)
+![GitHub Releases](https://img.shields.io/github/downloads/MrMaou/HelloWorld/latest/total.svg?color=blue&style=flat-square)
